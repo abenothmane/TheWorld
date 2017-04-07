@@ -1,0 +1,12 @@
+{
+  "MailSettings": {
+    "ToAddress": "anas.benothmane@hotmail.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "server=(localdb)\\MSSQLLocalDB; Database=TheWorldDb; Trusted_Connection=true;MultipleActiveResultSets=true"
+  },
+  "Keys": {
+    "BingKey": "This will get overwritten by env variable",
+    "GmapKey": "not a valid Gmapkey" 
+  }  
+}
